@@ -1,0 +1,27 @@
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+
+h3{
+    color: blue;
+}
+
+p{
+    color: red;
+}
+
+#wrapper{
+    border-style: solid;
+    border-width: thick black;
+    border-radius: 25px;
+    background-color: gray;
+}
+
+.truthlie{
+    border-style: solid;
+    border-radius: 25px;
+    background-color: lightgray;
+    text-align: center;
+    display: inline-block;
+}
